@@ -1,4 +1,4 @@
-<table border="0">
+![image](https://github.com/KangLinlinRWQ/KangLinlinRWQ.github.io/assets/92381111/fd108f39-7c34-4055-ad80-6e42404315c7)<table border="0">
   <tr>
     <td width="75%">
       <h1>康林林</h1>
@@ -38,19 +38,22 @@
 #### *Journal paper*  
 1. **Linlin Kang**, Ankang Gao*, Fei Han, Weicheng Cui, Xi-Yun Lu. "Propulsive performance and vortex dynamics of jellyfish-like propulsion with burst-and-coast strategy", Physics of Fluids, 2023, 35, 091904 (**Featured article, SciLight Report**).
 2. **Linlin Kang**, Shiying Xiong*, Buchen Wu*, Chao Li, Mingming Ge, Dehan Yuan, Fei Han, Weicheng Cui. "Force Decomposition on flapping flexible plate via impulse theory and dynamic mode decomposition", Physics of Fluids, 2023, 35, 101914 (**Editor's pick**).
-3. **Linlin Kang**, Shixian Gong, Xi-Yun Lu, Weicheng Cui, Dixia Fan*. "Scaling laws for the intermittent swimming performance of a flexible plate at low Reynolds number", Journal of Hydrodynamics, 2023,
-4.  **Linlin Kang**; Weicheng Cui; Xi-Yun Lu; Haibo Huang*; Hydrodynamic force induced by vortex-body interactions in orderly formations of flapping tandem flexible plates, Physics of Fluids, 2022, 34(2). 
-5.  **Linlin Kang**; Xi-Yun Lu; Weicheng Cui*; Intermittent swimming of two self-propelled flappi ng plates in tandem configuration, Physics of Fluids, 2022, 34(1).
-6.  **Linlin Kang**; Zerui Peng; Haibo Huang; Xi-Yun Lu; Weicheng Cui*; Active external control effect on the collective locomotion of two tandem self-propelled flapping plates, Physics of Fluids, 2021, 33: 101901.
-7. **Linlin Kang**; Lorenzo Russo; Renato Tognaccini*; Jiezhi Wu; Weidong Su; Aerodynamic force breakdown in reversible and irreversible components by vortex force theory, AIAA Journal, 2019, 57: 4623-4638. 
-8. **Linlin Kang**; Luoqin Liu; Weidong Su; Jiezhi Wu*; Minimum-domain impulse theory for unsteady aerodynamic force, Physics of Fluids, 2018, 30: 016107. 
-9. **Linlin Kang**; Luoqin Liu; Weidong Su; Jiezhi Wu*; A minimum-domain impulse theory for unsteady aerodynamic force with discrete wake, Theoretical and Applied Mechanics Letters, 2017, 7: 306-310. 
-10. Weicheng Cui*; **Linlin Kang**; On the construction of a theory of everything based on Buddhist cosmological model. Trends in Technical & Scientific Research, 2020, 3: 98-109. 
-11. Feng Mao; **Linlin Kang**; Jiezhi Wu; Jialong Yu; Ankang Gao; Weidong Su; Xi-Yun Lu*; A study of longitudinal processes and interactions in compressible viscous flows, Journal of Fluid Mechanics, 2020, 893: 0-A23. 
-12. Luoqin Liu; **Linlin Kang**; Jiezhi Wu*; Zonal structure of unbounded external-flow and aerodynamics, Fluid Dynamics Research, 2017, 49: 045508.
-13. Feng Mao; **Linlin Kang**; Luoqin Liu; Jiezhi Wu; A unified theory for gas dynamics and aeroacoustics in viscous compressible flows. Part I. Unbounded fluid, Acta Mechanica Sinica, 2021, under review.
-14. Luoqin Liu; Jiezhi Wu*; Weidong Su; **Linlin Kang**; Lift and drag in three-dimensional steady viscous and compressible flow, Physics of Fluids, 2017, 29: 116105. 
-15. Shufan Zou; Jiezhi Wu*; Ankang Gao; Luoqin Liu; **Linlin Kang**; Yipeng Shi; On the concept and theory of induced drag for viscous and incompressible steady flow, Physics of Fluids, 2019, 31: 065106.                                                                                                                                                       
+3. **Linlin Kang**, Shixian Gong, Xi-Yun Lu, Weicheng Cui, Dixia Fan*. "Scaling laws for the intermittent swimming performance of a flexible plate at low Reynolds number", Journal of Hydrodynamics, 2023, 35(4):803-810.
+4. 毛峰，**康林林**，刘罗勤，吴介之. 三维气体流动与纵波的理论表述——兼议气动声学，气动研究与试验, 2023, 1(3).
+5. 刘罗勤，邹舒帆，朱金阳，**康林林**，高安康，吴介之. 定常升阻力：理论基础的主流演化，气动研究与试验,2023,1(5).
+6. 毛峰，刘罗勤，邹舒帆，康林林，吴介之. 固体边界：复杂粘性流动之源，气动研究与试验，2023, 1(4).
+7.  **Linlin Kang**; Weicheng Cui; Xi-Yun Lu; Haibo Huang*; Hydrodynamic force induced by vortex-body interactions in orderly formations of flapping tandem flexible plates, Physics of Fluids, 2022, 34(2). 
+8.  **Linlin Kang**; Xi-Yun Lu; Weicheng Cui*; Intermittent swimming of two self-propelled flappi ng plates in tandem configuration, Physics of Fluids, 2022, 34(1).
+9.  **Linlin Kang**; Zerui Peng; Haibo Huang; Xi-Yun Lu; Weicheng Cui*; Active external control effect on the collective locomotion of two tandem self-propelled flapping plates, Physics of Fluids, 2021, 33: 101901.
+10. **Linlin Kang**; Lorenzo Russo; Renato Tognaccini*; Jiezhi Wu; Weidong Su; Aerodynamic force breakdown in reversible and irreversible components by vortex force theory, AIAA Journal, 2019, 57: 4623-4638. 
+11. **Linlin Kang**; Luoqin Liu; Weidong Su; Jiezhi Wu*; Minimum-domain impulse theory for unsteady aerodynamic force, Physics of Fluids, 2018, 30: 016107. 
+12. **Linlin Kang**; Luoqin Liu; Weidong Su; Jiezhi Wu*; A minimum-domain impulse theory for unsteady aerodynamic force with discrete wake, Theoretical and Applied Mechanics Letters, 2017, 7: 306-310. 
+13. Weicheng Cui*; **Linlin Kang**; On the construction of a theory of everything based on Buddhist cosmological model. Trends in Technical & Scientific Research, 2020, 3: 98-109. 
+14. Feng Mao; **Linlin Kang**; Jiezhi Wu; Jialong Yu; Ankang Gao; Weidong Su; Xi-Yun Lu*; A study of longitudinal processes and interactions in compressible viscous flows, Journal of Fluid Mechanics, 2020, 893: 0-A23. 
+15. Luoqin Liu; **Linlin Kang**; Jiezhi Wu*; Zonal structure of unbounded external-flow and aerodynamics, Fluid Dynamics Research, 2017, 49: 045508.
+16. Feng Mao; **Linlin Kang**; Luoqin Liu; Jiezhi Wu; A unified theory for gas dynamics and aeroacoustics in viscous compressible flows. Part I. Unbounded fluid, Acta Mechanica Sinica, 2021, under review.
+17. Luoqin Liu; Jiezhi Wu*; Weidong Su; **Linlin Kang**; Lift and drag in three-dimensional steady viscous and compressible flow, Physics of Fluids, 2017, 29: 116105. 
+18. Shufan Zou; Jiezhi Wu*; Ankang Gao; Luoqin Liu; **Linlin Kang**; Yipeng Shi; On the concept and theory of induced drag for viscous and incompressible steady flow, Physics of Fluids, 2019, 31: 065106.                                                                                                                                                       
 #### *Conference paper*  
 1. **Linlin Kang**; Lorenzo Russo; Renato Tognaccini*; Jiezhi Wu; Weidong Su; Aerodynamic Force Breakdown Based on Vortex Force Theory, AIAA Scitech 2019 Forum, San Diego, California, 2019. 
 
