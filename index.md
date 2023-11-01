@@ -1,4 +1,3 @@
-![image](https://github.com/KangLinlinRWQ/KangLinlinRWQ.github.io/assets/92381111/fd108f39-7c34-4055-ad80-6e42404315c7)<table border="0">
   <tr>
     <td width="75%">
       <h1>康林林</h1>
