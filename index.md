@@ -41,7 +41,7 @@
 3. **Linlin Kang**, Shixian Gong, Xi-Yun Lu, Weicheng Cui, Dixia Fan*. "Scaling laws for the intermittent swimming performance of a flexible plate at low Reynolds number", Journal of Hydrodynamics, 2023, 35(4):803-810.
 4. 毛峰，**康林林**，刘罗勤，吴介之. 三维气体流动与纵波的理论表述——兼议气动声学，气动研究与试验, 2023, 1(3).
 5. 刘罗勤，邹舒帆，朱金阳，**康林林**，高安康，吴介之. 定常升阻力：理论基础的主流演化，气动研究与试验,2023,1(5).
-6. 毛峰，刘罗勤，邹舒帆，康林林，吴介之. 固体边界：复杂粘性流动之源，气动研究与试验，2023, 1(4).
+6. 毛峰，刘罗勤，邹舒帆，**康林林**，吴介之. 固体边界：复杂粘性流动之源，气动研究与试验，2023, 1(4).
 7.  **Linlin Kang**, Weicheng Cui, Xi-Yun Lu, Haibo Huang*. Hydrodynamic force induced by vortex-body interactions in orderly formations of flapping tandem flexible plates, Physics of Fluids, 2022, 34(2). 
 8.  **Linlin Kang**, Xi-Yun Lu, Weicheng Cui*. Intermittent swimming of two self-propelled flappi ng plates in tandem configuration, Physics of Fluids, 2022, 34(1).
 9.  **康林林**，毛峰，吴介之. 一维纵波, 气动研究与试验, 2022, 34(5):1-18.
