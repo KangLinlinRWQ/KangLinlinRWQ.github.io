@@ -59,7 +59,12 @@
 #### *Conference paper*  
 1. **Linlin Kang**, Lorenzo Russo, Renato Tognaccini*, Jiezhi Wu, Weidong Su. Aerodynamic Force Breakdown Based on Vortex Force Theory, AIAA Scitech 2019 Forum, San Diego, California, 2019. 
 
+
+### **Reports**
+1. Highly efficient jellyfish jet propulsion, Maura Shapiro, 6 September 2023, Scilight.
+
 ### **Talks**
++ 基于动力学模态分解和冲量理论的柔性拍动板受力分析，第十九届全国分离流、旋涡和流动控制会议，西安，2023
 + 可压缩流动基本过程分解耦合理论及其应用，第八届国际流体物理研讨会，西安，2019
 + Aerodynamic Force Breakdown Based on Vortex Force Theory，AIAA SciTech 2019 Forum，美国洛杉矶，2019
 + The relation between vorticity-based and thermodynamic-based drag breakdown，欧洲流体力学大会，奥地利维也纳，2018
@@ -68,7 +73,8 @@
 
 ### **Academic services**
 + 流体领域TOP期刊 Physics of Fluids 审稿专家
-+ 《中国大百科全书》第三版《涡动力学》学科词条编辑工作 
++ 《中国大百科全书》第三版《涡动力学》学科词条编辑工作
++ Co-organizor of IBiM Seminar 
 
 ### **Teaching assistant**
 + 《流体运动基本过程》（吴介之教授），研究生课程，北京大学，2019
