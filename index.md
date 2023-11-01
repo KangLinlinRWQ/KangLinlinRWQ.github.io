@@ -64,7 +64,8 @@
 1. Highly efficient jellyfish jet propulsion, Maura Shapiro, 6 September 2023, Scilight.
 
 ### **Talks**
-+ 基于动力学模态分解和冲量理论的柔性拍动板受力分析，第十九届全国分离流、旋涡和流动控制会议，西安，2023
++ 基于动力学模态分解和冲量理论的柔性拍动板受力分析，第十九届全国分离流、旋涡和流动控制会议，西安，2023
++ 旋涡动力学理论及其应用，第48期流体力学青年学术沙龙，线上，2023
 + 可压缩流动基本过程分解耦合理论及其应用，第八届国际流体物理研讨会，西安，2019
 + Aerodynamic Force Breakdown Based on Vortex Force Theory，AIAA SciTech 2019 Forum，美国洛杉矶，2019
 + The relation between vorticity-based and thermodynamic-based drag breakdown，欧洲流体力学大会，奥地利维也纳，2018
