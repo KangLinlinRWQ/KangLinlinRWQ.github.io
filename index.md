@@ -44,7 +44,7 @@
 
 ### **论文发表**  
 #### *期刊论文*  
-1. Shixian Gong, **Linlin Kang***, Dixia Fan, Weicheng Cui, Xi-Yun Lu. "Hydrodynamic interactions between two self-propelled flapping plates swimming towards each other", Acta Mechanica Sinica, 2024. 
+1. Shixian Gong, **Linlin Kang** *, Dixia Fan, Weicheng Cui, Xi-Yun Lu. "Hydrodynamic interactions between two self-propelled flapping plates swimming towards each other", Acta Mechanica Sinica, 2024. 
 2.  **Linlin Kang**, Ankang Gao*, Fei Han, Weicheng Cui, Xi-Yun Lu. "Propulsive performance and vortex dynamics of jellyfish-like propulsion with burst-and-coast strategy", Physics of Fluids, 2023, 35, 091904 (**Featured article, SciLight Report**).
 3. **Linlin Kang**, Shiying Xiong*, Buchen Wu*, Chao Li, Mingming Ge, Dehan Yuan, Fei Han, Weicheng Cui. "Force Decomposition on flapping flexible plate via impulse theory and dynamic mode decomposition", Physics of Fluids, 2023, 35, 101914 (**Editor's pick**).
 4. **Linlin Kang**, Shixian Gong, Xi-Yun Lu, Weicheng Cui, Dixia Fan*. "Scaling laws for the intermittent swimming performance of a flexible plate at low Reynolds number", Journal of Hydrodynamics, 2023, 35(4):803-810.
@@ -87,14 +87,14 @@
 + Vortex Force Theory for aerodynamic force decomposition，第一届中国空气动力学大会，绵阳，2018
 + A compressible finite-domain impulse theory for unsteady aerodynamic force，国际理论与应用力学大会，涡动力学分会，法国马赛，2016
 
-### **Academic services**
+### **学术服务**
 + 国际期刊Biomimetics和Journal of Hydrodynamics期刊客座主编
 + 国际会议2024 SES Annual Technical Meeting分会“生物流体和仿生流体力学”负责人
 + 流体领域权威期刊 Physics of Fluids，AIAA Journal, Ocean Engineering, Journal of Hydrodynamics等期刊审稿专家
 + 《中国大百科全书》第三版《涡动力学》学科词条编辑工作
 + Co-organizor of IBiM Seminar，联合创办《智能与仿生力学》公众号
 
-### **Teaching assistant**
+### **助教经历**
 + 《流体运动基本过程》（吴介之教授），研究生课程，北京大学，2019
 + 《高等空气动力学》（吴介之教授），研究生课程，北京大学，2016 
 + 《数学分析》（史一蓬教授），本科生课程，北京大学，2014
