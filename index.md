@@ -44,7 +44,7 @@
 
 ### **论文发表**  
 #### *期刊论文*  
-1. Shixian Gong, **Linlin Kang***, Dixia Fan*, Weicheng Cui, Xi-Yun Lu. "Hydrodynamic interactions between two self-propelled flapping plates swimming towards each other", Acta Mechanica Sinica, 2024. 
+1. Shixian Gong, **Linlin Kang***, Dixia Fan, Weicheng Cui, Xi-Yun Lu. "Hydrodynamic interactions between two self-propelled flapping plates swimming towards each other", Acta Mechanica Sinica, 2024. 
 2.  **Linlin Kang**, Ankang Gao*, Fei Han, Weicheng Cui, Xi-Yun Lu. "Propulsive performance and vortex dynamics of jellyfish-like propulsion with burst-and-coast strategy", Physics of Fluids, 2023, 35, 091904 (**Featured article, SciLight Report**).
 3. **Linlin Kang**, Shiying Xiong*, Buchen Wu*, Chao Li, Mingming Ge, Dehan Yuan, Fei Han, Weicheng Cui. "Force Decomposition on flapping flexible plate via impulse theory and dynamic mode decomposition", Physics of Fluids, 2023, 35, 101914 (**Editor's pick**).
 4. **Linlin Kang**, Shixian Gong, Xi-Yun Lu, Weicheng Cui, Dixia Fan*. "Scaling laws for the intermittent swimming performance of a flexible plate at low Reynolds number", Journal of Hydrodynamics, 2023, 35(4):803-810.
