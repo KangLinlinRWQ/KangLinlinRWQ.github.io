@@ -13,25 +13,28 @@
   </tr>
 </table>
 
-### **Work experience**    
-  + 2024.1-至今       副研究员     工学院    西湖大学  
-  + 2022.1-2024.1    助理研究员    工学院    西湖大学  
-  + 2020.1-2022.1    博士后       工学院    西湖大学
+### **工作经历**    
+  + 2024.1-至今，副研究员，工学院，西湖大学  
+  + 2022.1-2024.1，助理研究员，工学院，西湖大学  
+  + 2020.1-2022.1，博士后，工学院，西湖大学
 
-### **Education**    
+### **教育背景**    
   + 2014.9-2020.1, 博士，流体力学，北京大学  
   + 2018.1-2018.5, 访问学生，工业工程系，意大利那不勒斯费德里克二世大学  
   + 2010.9-2014.6, 学士，近代力学系，中国科学技术大学    
 
-### **Projects**  
+### **科研项目**  
 1. 国家自然科学基金委员会, 青年科学基金，“柔性体涡动力学理论研究及其在集群运动分析中的应用”，主持，在研，2022.1-2024.12
 2. 中国博士后科学基金会，第69批面上资助，“仿生柔性体集群运动特性和动力学机理研究”，主持，在研，2020.1-2021.12
 3. 中华人民共和国科学技术部，重点研发计划，“自主俘能多模态仿蝠鲼潜水器”，参与，在研，2022.11-2026.10
 4. 广东省海洋六大产业专项重点研发项目，“深海仿生型潜水器研发及产业化应用”，参与，在研，2021.4-2023.3
 5. 国家自然科学基金委员会，重大研究计划, “带水平剪切的双扩散对流流动结构及输运特性”，参与，在研，2019.1-2021.12
-6. 国家自然科学基金委员会, 面上项目，“粘性可压缩复杂外流的局部动力学诊断理论”，参与，结题，2015.1-2019.12                   
+6. 国家自然科学基金委员会, 面上项目，“粘性可压缩复杂外流的局部动力学诊断理论”，参与，结题，2015.1-2019.12
 
-### **Awards**
+### **人才项目**  
+1. 浙江省科学技术协会，青年人才托举项目，主持，在研，2024.1-2026.1
+                  
+### **荣誉/奖励**
 1. 西湖大学工学院2021年度优秀职工（2021）
 2. 北京大学校长奖学金（2018）
 3. 北京大学专项奖学金（2016）
@@ -39,38 +42,45 @@
 5. 大学生创新研究计划二等奖、优秀学生奖学金（银奖）、励志奖学金、杨亚奖学金（2011-2013）
 6. 数学竞赛全国二等奖（2009）                                                                                         
 
-### **Publications**  
-#### *Journal paper*  
-1. **Linlin Kang**, Ankang Gao*, Fei Han, Weicheng Cui, Xi-Yun Lu. "Propulsive performance and vortex dynamics of jellyfish-like propulsion with burst-and-coast strategy", Physics of Fluids, 2023, 35, 091904 (**Featured article, SciLight Report**).
-2. **Linlin Kang**, Shiying Xiong*, Buchen Wu*, Chao Li, Mingming Ge, Dehan Yuan, Fei Han, Weicheng Cui. "Force Decomposition on flapping flexible plate via impulse theory and dynamic mode decomposition", Physics of Fluids, 2023, 35, 101914 (**Editor's pick**).
-3. **Linlin Kang**, Shixian Gong, Xi-Yun Lu, Weicheng Cui, Dixia Fan*. "Scaling laws for the intermittent swimming performance of a flexible plate at low Reynolds number", Journal of Hydrodynamics, 2023, 35(4):803-810.
-4. 毛峰，**康林林**，刘罗勤，吴介之. 三维气体流动与纵波的理论表述——兼议气动声学，气动研究与试验, 2023, 1(3).
-5. 刘罗勤，邹舒帆，朱金阳，**康林林**，高安康，吴介之. 定常升阻力：理论基础的主流演化，气动研究与试验,2023,1(5).
-6. 毛峰，刘罗勤，邹舒帆，**康林林**，吴介之. 固体边界：复杂粘性流动之源，气动研究与试验，2023, 1(4).
-7.  **Linlin Kang**, Weicheng Cui, Xi-Yun Lu, Haibo Huang*. Hydrodynamic force induced by vortex-body interactions in orderly formations of flapping tandem flexible plates, Physics of Fluids, 2022, 34(2). 
-8.  **Linlin Kang**, Xi-Yun Lu, Weicheng Cui*. Intermittent swimming of two self-propelled flappi ng plates in tandem configuration, Physics of Fluids, 2022, 34(1).
-9.  **康林林**，毛峰，吴介之. 一维纵波, 气动研究与试验, 2022, 34(5):1-18.
-10.  Feng Mao, **Linlin Kang**, Luoqin Liu*, Jiezhi Wu. A unified theory for gas dynamics and aeroacoustics in viscous compressible flows. Part I. Unbounded fluid, Acta Mechanica Sinica, 2022, 38(7): 321492.
-11.  Feng Mao, Luoqin Liu*, **Linlin Kang**, Jiezhi Wu, Pengjunyi Zhang, Zhenhua Wan. A unified theory for gas dynamics and aeroacoustics in viscous compressible flows. Part II. Sources on solid boundary, Acta Mechanica Sinica, 2022, 38(12): 321583.
-12.  **Linlin Kang**; Zerui Peng; Haibo Huang; Xi-Yun Lu; Weicheng Cui*; Active external control effect on the collective locomotion of two tandem self-propelled flapping plates, Physics of Fluids, 2021, 33: 101901.
-13. Feng Mao, **Linlin Kang**, Jiezhi Wu, Jialong Yu, Ankang Gao, Weidong Su, Xi-Yun Lu*. A study of longitudinal processes and interactions in compressible viscous flows, Journal of Fluid Mechanics, 2020, 893: 0-A23.
-14. Weicheng Cui*, **Linlin Kang**. On the construction of a theory of everything based on Buddhist cosmological model. Trends in Technical & Scientific Research, 2020, 3: 98-109.  
-15. **Linlin Kang**, Lorenzo Russo, Renato Tognaccini*, Jiezhi Wu, Weidong Su. Aerodynamic force breakdown in reversible and irreversible components by vortex force theory, AIAA Journal, 2019, 57: 4623-4638.
-16. Shufan Zou, Jiezhi Wu*, Ankang Gao, Luoqin Liu, **Linlin Kang**, Yipeng Shi. On the concept and theory of induced drag for viscous and incompressible steady flow, Physics of Fluids, 2019, 31: 065106.
-17. **Linlin Kang**, Luoqin Liu, Weidong Su, Jiezhi Wu*. Minimum-domain impulse theory for unsteady aerodynamic force, Physics of Fluids, 2018, 30: 016107.
-18. **Linlin Kang**, Luoqin Liu, Weidong Su, Jiezhi Wu*. A minimum-domain impulse theory for unsteady aerodynamic force with discrete wake, Theoretical and Applied Mechanics Letters, 2017, 7: 306-310.
-19. Luoqin Liu, **Linlin Kang**, Jiezhi Wu*. Zonal structure of unbounded external-flow and aerodynamics, Fluid Dynamics Research, 2017, 49: 045508.
-20. Luoqin Liu, Jiezhi Wu*, Weidong Su, **Linlin Kang**. Lift and drag in three-dimensional steady viscous and compressible flow, Physics of Fluids, 2017, 29: 116105.                                                                                                                                                       
-#### *Conference paper*  
+### **论文发表**  
+#### *期刊论文*  
+1. Shixian Gong, **Linlin Kang***, Dixia Fan*, Weicheng Cui, Xi-Yun Lu. "Hydrodynamic interactions between two self-propelled flapping plates swimming towards each other", Acta Mechanica Sinica, 2024. 
+2.  **Linlin Kang**, Ankang Gao*, Fei Han, Weicheng Cui, Xi-Yun Lu. "Propulsive performance and vortex dynamics of jellyfish-like propulsion with burst-and-coast strategy", Physics of Fluids, 2023, 35, 091904 (**Featured article, SciLight Report**).
+3. **Linlin Kang**, Shiying Xiong*, Buchen Wu*, Chao Li, Mingming Ge, Dehan Yuan, Fei Han, Weicheng Cui. "Force Decomposition on flapping flexible plate via impulse theory and dynamic mode decomposition", Physics of Fluids, 2023, 35, 101914 (**Editor's pick**).
+4. **Linlin Kang**, Shixian Gong, Xi-Yun Lu, Weicheng Cui, Dixia Fan*. "Scaling laws for the intermittent swimming performance of a flexible plate at low Reynolds number", Journal of Hydrodynamics, 2023, 35(4):803-810.
+5. 毛峰，**康林林**，刘罗勤，吴介之. 三维气体流动与纵波的理论表述——兼议气动声学，气动研究与试验, 2023, 1(3).
+6. 刘罗勤，邹舒帆，朱金阳，**康林林**，高安康，吴介之. 定常升阻力：理论基础的主流演化，气动研究与试验,2023,1(5).
+7. 毛峰，刘罗勤，邹舒帆，**康林林**，吴介之. 固体边界：复杂粘性流动之源，气动研究与试验，2023, 1(4).
+8.  **Linlin Kang**, Weicheng Cui, Xi-Yun Lu, Haibo Huang*. Hydrodynamic force induced by vortex-body interactions in orderly formations of flapping tandem flexible plates, Physics of Fluids, 2022, 34(2). 
+9.  **Linlin Kang**, Xi-Yun Lu, Weicheng Cui*. Intermittent swimming of two self-propelled flappi ng plates in tandem configuration, Physics of Fluids, 2022, 34(1)(**Editor's pick**).
+10.  **康林林**，毛峰，吴介之. 一维纵波, 气动研究与试验, 2022, 34(5):1-18.
+11.  Feng Mao, **Linlin Kang**, Luoqin Liu*, Jiezhi Wu. A unified theory for gas dynamics and aeroacoustics in viscous compressible flows. Part I. Unbounded fluid, Acta Mechanica Sinica, 2022, 38(7): 321492.
+12.  Feng Mao, Luoqin Liu*, **Linlin Kang**, Jiezhi Wu, Pengjunyi Zhang, Zhenhua Wan. A unified theory for gas dynamics and aeroacoustics in viscous compressible flows. Part II. Sources on solid boundary, Acta Mechanica Sinica, 2022, 38(12): 321583.
+13.  **Linlin Kang**; Zerui Peng; Haibo Huang; Xi-Yun Lu; Weicheng Cui*; Active external control effect on the collective locomotion of two tandem self-propelled flapping plates, Physics of Fluids, 2021, 33: 101901.
+14. Feng Mao, **Linlin Kang**, Jiezhi Wu, Jialong Yu, Ankang Gao, Weidong Su, Xi-Yun Lu*. A study of longitudinal processes and interactions in compressible viscous flows, Journal of Fluid Mechanics, 2020, 893: 0-A23.
+15. Weicheng Cui*, **Linlin Kang**. On the construction of a theory of everything based on Buddhist cosmological model. Trends in Technical & Scientific Research, 2020, 3: 98-109.  
+16. **Linlin Kang**, Lorenzo Russo, Renato Tognaccini*, Jiezhi Wu, Weidong Su. Aerodynamic force breakdown in reversible and irreversible components by vortex force theory, AIAA Journal, 2019, 57: 4623-4638.
+17. Shufan Zou, Jiezhi Wu*, Ankang Gao, Luoqin Liu, **Linlin Kang**, Yipeng Shi. On the concept and theory of induced drag for viscous and incompressible steady flow, Physics of Fluids, 2019, 31: 065106.
+18. **Linlin Kang**, Luoqin Liu, Weidong Su, Jiezhi Wu*. Minimum-domain impulse theory for unsteady aerodynamic force, Physics of Fluids, 2018, 30: 016107(**Editor's pick**).
+19. **Linlin Kang**, Luoqin Liu, Weidong Su, Jiezhi Wu*. A minimum-domain impulse theory for unsteady aerodynamic force with discrete wake, Theoretical and Applied Mechanics Letters, 2017, 7: 306-310.
+20. Luoqin Liu, **Linlin Kang**, Jiezhi Wu*. Zonal structure of unbounded external-flow and aerodynamics, Fluid Dynamics Research, 2017, 49: 045508.
+21. Luoqin Liu, Jiezhi Wu*, Weidong Su, **Linlin Kang**. Lift and drag in three-dimensional steady viscous and compressible flow, Physics of Fluids, 2017, 29: 116105.                                                                                                                                                       
+#### *会议论文*  
 1. **Linlin Kang**, Lorenzo Russo, Renato Tognaccini*, Jiezhi Wu, Weidong Su. Aerodynamic Force Breakdown Based on Vortex Force Theory, AIAA Scitech 2019 Forum, San Diego, California, 2019. 
 
 
-### **Reports**
+### **专题报道**
 1. Highly efficient jellyfish jet propulsion, Maura Shapiro, 6 September 2023, Scilight.
 
-### **Talks**
+### **专利**
+1. 发明专利：一种外骨骼机器人远程多机控制方法，王景泽，**康林林**，杨平，崔维成，ZL202210214212.4。
+2. 实用新型专利：一种可翻转的仿生扇贝推进装置，**康林林**，罗兵，何衢，崔维成，ZL202320364210.3。
+
+### **学术报告**
++ Vortex interactions shape the evolution of force, acoustics and magnetic field, 国际涡动力学大会，中国杭州，2023（**邀请报告**）
++ 仿生柔性体运动的流固耦合数值模拟研究，第八届全国船舶与海洋工程CFD会议，哈尔滨，2023（**邀请报告**）
 + 基于动力学模态分解和冲量理论的柔性拍动板受力分析，第十九届全国分离流、旋涡和流动控制会议，西安，2023
-+ 旋涡动力学理论及其应用，第48期流体力学青年学术沙龙，线上，2023
++ 旋涡动力学理论及其应用，第48期流体力学青年学术沙龙，线上，2023（**邀请报告**）
 + 可压缩流动基本过程分解耦合理论及其应用，第八届国际流体物理研讨会，西安，2019
 + Aerodynamic Force Breakdown Based on Vortex Force Theory，AIAA SciTech 2019 Forum，美国洛杉矶，2019
 + The relation between vorticity-based and thermodynamic-based drag breakdown，欧洲流体力学大会，奥地利维也纳，2018
@@ -78,9 +88,11 @@
 + A compressible finite-domain impulse theory for unsteady aerodynamic force，国际理论与应用力学大会，涡动力学分会，法国马赛，2016
 
 ### **Academic services**
-+ 流体领域TOP期刊 Physics of Fluids 审稿专家
++ 国际期刊Biomimetics和Journal of Hydrodynamics期刊客座主编
++ 国际会议2024 SES Annual Technical Meeting分会“生物流体和仿生流体力学”负责人
++ 流体领域权威期刊 Physics of Fluids，AIAA Journal, Ocean Engineering, Journal of Hydrodynamics等期刊审稿专家
 + 《中国大百科全书》第三版《涡动力学》学科词条编辑工作
-+ Co-organizor of IBiM Seminar 
++ Co-organizor of IBiM Seminar，联合创办《智能与仿生力学》公众号
 
 ### **Teaching assistant**
 + 《流体运动基本过程》（吴介之教授），研究生课程，北京大学，2019
